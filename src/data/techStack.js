@@ -1,0 +1,36 @@
+import playwrightLogo from "../assets/playwright.png"
+
+export const techStack = [
+  { id: 1, name: "Python", logo: "https://cdn.simpleicons.org/python" },
+  { id: 2, name: "JavaScript", logo: "https://cdn.simpleicons.org/javascript" },
+  { id: 3, name: "TypeScript", logo: "https://cdn.simpleicons.org/typescript" },
+  { id: 4, name: "C", logo: "https://cdn.simpleicons.org/c" },
+  { id: 5, name: "HTML", logo: "https://cdn.simpleicons.org/html5" },
+  { id: 6, name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
+  { id: 7, name: "React", logo: "https://cdn.simpleicons.org/react" },
+  { id: 8, name: "Bootstrap", logo: "https://cdn.simpleicons.org/bootstrap" },
+  { id: 9, name: "FastAPI", logo: "https://cdn.simpleicons.org/fastapi" },
+  { id: 10, name: "OpenCV", logo: "https://cdn.simpleicons.org/opencv" },
+  { id: 11, name: "Pandas", logo: "https://cdn.simpleicons.org/pandas" },
+  { id: 12, name: "Jupyter", logo: "https://cdn.simpleicons.org/jupyter" },
+  { id: 13, name: "MySQL", logo: "https://cdn.simpleicons.org/mysql" },
+  { id: 14, name: "PostgreSQL", logo: "https://cdn.simpleicons.org/postgresql" },
+  { id: 15, name: "Supabase", logo: "https://cdn.simpleicons.org/supabase" },
+  { id: 16, name: "Vercel", logo: "https://cdn.simpleicons.org/vercel" },
+  { id: 17, name: "Docker", logo: "https://cdn.simpleicons.org/docker" },
+  { id: 18, name: "Linux", logo: "https://cdn.simpleicons.org/linux" },
+  { id: 19, name: "Git", logo: "https://cdn.simpleicons.org/git" },
+  { id: 20, name: "GitHub", logo: "https://cdn.simpleicons.org/github" },
+  { id: 21, name: "Postman", logo: "https://cdn.simpleicons.org/postman" },
+  { id: 22, name: "Figma", logo: "https://cdn.simpleicons.org/figma" },
+  { id: 23, name: "VS Code", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
+  { id: 24, name: "Selenium", logo: "https://cdn.simpleicons.org/selenium" },
+  { id: 25, name: "Playwright", logo: "https://playwright.dev/img/playwright-logo.svg" },
+  { id: 26, name: "TestNG", logo: "https://testng.org/img/testng-logo.png" },
+  { id: 27, name: "JUnit", logo: "https://cdn.simpleicons.org/junit5" },
+  { id: 28, name: "Cucumber", logo: "https://cdn.simpleicons.org/cucumber" },
+  { id: 29, name: "Jenkins", logo: "https://www.svgrepo.com/show/353929/jenkins.svg" },
+  { id: 30, name: "Allure Reports", logo: "https://avatars.githubusercontent.com/u/5879127?s=200&v=4" },
+  { id: 31, name: "WordPress", logo: "https://cdn.worldvectorlogo.com/logos/wordpress-2.svg" }
+]
+
