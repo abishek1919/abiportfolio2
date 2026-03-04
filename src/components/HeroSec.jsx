@@ -48,7 +48,7 @@ const HeroSec = () => {
           </Motion.button>
 
           <Motion.a
-            href="/Abishek_resume.pdf"
+            href="/Abishek_R_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#292929b3] px-1.5 rounded-xl w-44 h-10 text-lg lg:w-64 lg:h-16 text-center flex justify-center items-center"
