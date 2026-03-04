@@ -37,13 +37,5 @@ export const projects = [
     techStack: ["Python", "Tkinter", "yt-dlp", "FFmpeg"],
     github: "https://github.com/abishek1919/YouTube-Video-Downloader.git",
   },
-  {
-    id: 4,
-    name: "The Silk Cup Cafe",
-    image: cafeImg,
-    description:
-      "A modern, responsive cafe website built using React, Vite, and Tailwind CSS with advanced animations, multilingual support, and interactive features.",
-    techStack: ["React", "Vite", "Tailwind CSS", "Framer Motion", "GSAP", "i18next"],
-    github: "https://github.com/hvsingh28/Cafe-website",
-  },
+
 ];
