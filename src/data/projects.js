@@ -1,5 +1,5 @@
 import handImg from "../assets/hand.png";
-import cafeImg from "../assets/demo-english.png";
+import biogas from "../assets/biogas.png";
 import yt from "../assets/utube.svg";
 import cur from "../assets/scm.png";
 
@@ -13,8 +13,17 @@ export const projects = [
     techStack: ["Python", "OpenCV", "MediaPipe", "PyAutoGUI", "NumPy"],
     github: "https://github.com/abishek1919/Hand-Gesture-Mouse-Control.git",
   },
-  {
+   {
     id: 2,
+    name: "SmartBioGas-Optimizer",
+    image: biogas,
+    description:
+  "A smart biogas optimization platform that analyzes anaerobic digestion parameters and predicts methane yield, biogas production, and system efficiency through an interactive analytics dashboard with visual insights and optimization recommendations.",
+  techStack: ["React", "Vite", "Tailwind CSS", "Chart.js", "Framer Motion"],
+    github: "https://github.com/abishek1919/SmartBioGas-Optimizer.git",
+  },
+  {
+    id: 3,
     name: "Smart clipboard Manager",
     image: cur,
     description:
@@ -29,7 +38,7 @@ export const projects = [
     github: "https://github.com/abishek1919/Smart-clipboard-Manager.git",
   },
   {
-    id: 3,
+    id: 4,
     name: "YouTube Video Downloader",
     image: yt,
     description:
@@ -37,5 +46,5 @@ export const projects = [
     techStack: ["Python", "Tkinter", "yt-dlp", "FFmpeg"],
     github: "https://github.com/abishek1919/YouTube-Video-Downloader.git",
   },
-
+ 
 ];
