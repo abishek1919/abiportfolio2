@@ -1,6 +1,6 @@
 import handImg from "../assets/hand.png";
 import biogas from "../assets/biogas.png";
-import yt from "../assets/utube.svg";
+import yt from "../assets/utube.png";
 import cur from "../assets/scm.png";
 import hrms from "../assets/hrms.png";
 import derma from "../assets/derma.png";
