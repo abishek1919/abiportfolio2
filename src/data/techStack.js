@@ -26,7 +26,7 @@ export const techStack = [
   { id: 23, name: "VS Code", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
   { id: 24, name: "Selenium", logo: "https://cdn.simpleicons.org/selenium" },
   { id: 25, name: "Playwright", logo: "https://playwright.dev/img/playwright-logo.svg" },
-  { id: 26, name: "TestNG", logo: "https://testng.org/img/testng-logo.png" },
+  { id: 26, name: "TestNG", logo: "https://www.google.com/imgres?q=cypress%20testing%20logo&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8908513%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fcypress-io&docid=ehYiuoa0ID3_JM&tbnid=LRYcmYJe70NdkM&vet=12ahUKEwjL8vvNy6mWAxVqT0EAHUTQMIYQnPAOegQIQBAA..i&w=280&h=280&hcb=2&ved=2ahUKEwjL8vvNy6mWAxVqT0EAHUTQMIYQnPAOegQIQBAA" },
   { id: 27, name: "JUnit", logo: "https://cdn.simpleicons.org/junit5" },
   { id: 28, name: "Cucumber", logo: "https://cdn.simpleicons.org/cucumber" },
   { id: 29, name: "Jenkins", logo: "https://www.svgrepo.com/show/353929/jenkins.svg" },
