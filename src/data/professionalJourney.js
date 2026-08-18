@@ -1,7 +1,7 @@
 export const professionalJourney = [
   {
     id: 1,
-    role: "Automation Testing Intern",
+    role: "Automation Test engineer ",
     organization: "Method Hub",
     period: "2025",
     location: "Chennai, Tamil Nadu",
@@ -18,6 +18,7 @@ export const professionalJourney = [
     technologies: [
       "Playwright",
       "Selenium WebDriver",
+      "Cypress"
       "Postman",
       "Java",
       "TestNG",
