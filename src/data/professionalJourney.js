@@ -18,7 +18,7 @@ export const professionalJourney = [
     technologies: [
       "Playwright",
       "Selenium WebDriver",
-      "Cypress"
+      "Cypress",
       "Postman",
       "Java",
       "TestNG",
